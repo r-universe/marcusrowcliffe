@@ -5,3 +5,6 @@
 [submodule "activity"]
 	path = activity
 	url = https://github.com/marcusrowcliffe/activity
+[submodule "sbd"]
+	path = sbd
+	url = https://github.com/marcusrowcliffe/sbd
